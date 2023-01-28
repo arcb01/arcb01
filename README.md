@@ -32,3 +32,10 @@ These are my main tech tools right now and the ones that I am most familiar with
    <img align="left" alt="MySQL" width="45px" style="padding-right:7px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="left" alt="R" width="45px" style="padding-right:7px; "src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
    <img align="left" alt="Plotly" width="75px" style="padding-right:7px; "src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png"/>
+</details>
+
+<br />
+
+## Contact me:
+
+ 
