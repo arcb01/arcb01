@@ -40,7 +40,7 @@ These are my main tech tools right now and the ones that I am most familiar with
 <!DOCTYPE html>
 <html>
 <body>
-     <a href="https://www.linkedin.com/in/arnau-castellano" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="Tutorialspoint" style="width:45px;"></a>
+     <a href="https://www.linkedin.com/in/arnau-castellano"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="Tutorialspoint" style="width:45px;"></a>
    </left>
 </body>
 </html>
