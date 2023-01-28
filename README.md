@@ -1,5 +1,8 @@
 # Arnau Castellano
 
+Hi! My name is Arnau Castellano and I’m a Data Engineering student at UAB. I am particularly interested in **data science** and **artificial intelligence**, and have been actively pursuing ways to expand my knowledge and understanding of these topics. 
+I enjoy developing applications of all kinds, which has enabled me to hone my skills in various programming languages and tools.
+I'm passionate about learning new technologies and frameworks to further my career in data science. As I gain more experience, I'm excited to contribute to the development of any cutting-edge tools.
 
 ---
 
