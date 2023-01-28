@@ -19,7 +19,6 @@ These are my main tech tools right now and the ones that I am most familiar with
 <img align="center" alt="Matplotlib" width="75px" style="padding-right:7px; "src="https://matplotlib.org/3.0.2/_static/logo2.png" />
 
 <br />
-<br />
 
 <details>
  <summary><h3>⚙ Other tools that I've used in the past</h3></summary>
