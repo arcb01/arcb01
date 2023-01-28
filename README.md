@@ -15,7 +15,7 @@ These are my main tech tools right now and the ones that I am most familiar with
 />
 <img align="left" alt="Linux" width="45px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="45px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
+<img align="left" alt="MatLab" width="45px" style="padding-right:7px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
 <br />
 <br />
 
@@ -26,3 +26,4 @@ These are my main tech tools right now and the ones that I am most familiar with
    <img align="left" alt="C" width="45px" style="padding-right:7px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="left" alt="MatLab" width="45px" style="padding-right:7px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
    <img align="left" alt="MatLab" width="45px" style="padding-right:7px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="left" alt="MatLab" width="45px" style="padding-right:7px; "src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
