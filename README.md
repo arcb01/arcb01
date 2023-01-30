@@ -1,5 +1,3 @@
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=arcb01&label=Profile%20views&color=0e75b6&style=flat" alt="vladvlad9" /> </p>
-
 # Hi! I'm Arnau Castellano
 
 I’m a Data Engineering student at UAB. I am particularly interested in **data science** and **AI**, and have been actively pursuing ways to expand my knowledge and understanding of these topics. 
