@@ -45,3 +45,4 @@ These are my main tech tools right now and the ones that I am most familiar with
 </body>
 </html>
  
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=arcb01&label=Profile%20views&color=0e75b6&style=flat" alt="vladvlad9" /> </p>
