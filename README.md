@@ -40,9 +40,11 @@ These are my main tech tools right now and the ones that I am most familiar with
 <!DOCTYPE html>
 <html>
 <body>
-     <a href="https://www.linkedin.com/in/arnau-castellano"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="Tutorialspoint" style="width:45px;"></a>
+     <a href="https://www.linkedin.com/in/arnau-castellano"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="Tutorialspoint" width="45px" style="padding-right:15px;" ></a>
    </left>
+  <a href="mailto:arnau.castellano1@gmail.com"><img src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" alt="Mail" style="width:45px;"></a>
 </body>
 </html>
  
+
 
