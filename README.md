@@ -1,6 +1,6 @@
 # Hi! I'm Arnau Castellano
 
-I’m a Data Engineering graduate from UAB. I am particularly interested in **ML & AI** and excited to work with any cutting-edge tools.
+I’m a Data Engineering graduate from UAB, mainly interested in **ML** and **AI** stuff. 
 
 <details>
  <summary><h3>👨‍💻 Main tools</h3></summary>
