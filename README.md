@@ -27,15 +27,7 @@ I’m a Data Engineering graduate from UAB, mainly interested in **ML** and **AI
  <br>
 </details>
 
-## [Contact me](https://arnau-cb.notion.site/arnau-cb/Arnau-Castellano-d31dfacc7cc04154a147d1c77dcbddb3#:~:text=Wildfire%20Detector-,Info,-LinkedIn)
-<!DOCTYPE html>
-<html>
-<body>
-     <a href="https://www.linkedin.com/in/arnau-castellano"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="Tutorialspoint" width="40px" style="padding-right:5px;" ></a>
-   </left>
-  <a href="mailto:arnau.castellano1@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/1295/1295555.png" alt="GMail" width="40px";></a>
-</body>
-</html>
+### 🤙 [Reach out](https://arnau-cb.notion.site/arnau-cb/Arnau-Castellano-d31dfacc7cc04154a147d1c77dcbddb3#:~:text=Wildfire%20Detector-,Info,-LinkedIn)
  
 
 
