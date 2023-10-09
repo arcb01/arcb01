@@ -27,7 +27,10 @@ I’m a Data Engineering graduate from UAB, mainly interested in **ML** and **AI
  <br>
 </details>
 
-### 🤙 [Reach out](https://arnau-cb.notion.site/arnau-cb/Arnau-Castellano-d31dfacc7cc04154a147d1c77dcbddb3#:~:text=Wildfire%20Detector-,Info,-LinkedIn)
+### 🤙 Reach out
+&nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/arnau-castellano/)  &nbsp; 
+<a href="mailto:arnau.castellano1@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
  
 
 
