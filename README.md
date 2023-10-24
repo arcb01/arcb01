@@ -3,7 +3,7 @@
 I’m a Data Engineering graduate from UAB, mainly interested in **ML** and **AI** stuff. 
 
 <details>
- <summary><h3>👨‍💻 Main tools</h3></summary>
+ <summary><h3>👨‍💻 Tools I use</h3></summary>
  <p><i>From most to least proficient:</i></p>
    <img align="left" alt="Python" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img align="left" alt="ipynb" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
